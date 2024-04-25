@@ -1,11 +1,13 @@
 - 👋 Hi, I’m @deviprasaddayal12
 - 👀 I’m interested in ... Java, Kotlin, Python, Node(Node, Express and Nest), Javascript, Typescript, MySQl, MongoDB, GraphQL, Android, Arduion and RaspberryPi, ROS
-- 🌱 I’m currently learning ... Javascript, Node, GraphQL, MongoDB, Python, ROS
+- 🌱 I’m currently learning ... Neo4j, esp32
 - 💞️ I’m looking to collaborate on ... IoT implementations
 - 📫 How to reach me ... my email: deviprasaddayal12@gmail.com
 
+<!---
 <h1 align="center">Hi 👋, I'm Dayal Deviprasad Das</h1>
 <h3 align="center">A passionate backend and iot developer from India</h3>
+--->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deviprasaddayal12&label=Profile%20views&color=0e75b6&style=flat" alt="deviprasaddayal12" /> </p>
 
